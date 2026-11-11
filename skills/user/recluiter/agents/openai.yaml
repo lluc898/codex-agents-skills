@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recluiter"
+  short_description: "Evalúa talento técnico con evidencia"
+  default_prompt: "Usa $recluiter para evaluar esta oferta y estos candidatos con criterios basados en evidencia."

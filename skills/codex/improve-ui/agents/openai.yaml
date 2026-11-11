@@ -1,0 +1,11 @@
+interface:
+  display_name: "Improve UI"
+  short_description: "Review UI and create a complete developer handoff"
+  default_prompt: "Use $improve-ui to detect whether this product is web, app, or both; review its design; create the complete Markdown implementation handoff; and give me the exact prompt for the development agent."
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

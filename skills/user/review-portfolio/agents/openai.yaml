@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Portfolio"
+  short_description: "Audita portfolios para maximizar entrevistas"
+  default_prompt: "Usa $review-portfolio para auditar este portfolio como recruiter, hiring manager y revisor UX/UI."
