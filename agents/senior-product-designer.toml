@@ -85,3 +85,4 @@ Aplica el formato y la plantilla de `improve-ui`. El resultado no termina con un
 [[skills.config]]
 path = "__USER_PROFILE__/.codex/skills/improve-ui/SKILL.md"
 enabled = true
+

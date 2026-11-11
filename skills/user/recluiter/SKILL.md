@@ -208,9 +208,9 @@ Responde con esta estructura, adaptandola solo cuando una seccion no aplique:
 
 ## VEREDICTO
 
-**Score:** XX/100
-**Confianza:** Alta / Media / Baja
-**Nivel estimado:** XXXXX
+**Score:** XX/100  
+**Confianza:** Alta / Media / Baja  
+**Nivel estimado:** XXXXX  
 **Recomendacion:** Strong Hire / Hire / Consider / Weak Consider / Reject
 
 ## RESUMEN EJECUTIVO
